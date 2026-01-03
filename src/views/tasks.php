@@ -508,7 +508,7 @@
         .creative-form .btn-pill{border-radius:999px;padding:.6rem 1.2rem;font-weight:600}
     </style>
     <?php if (user_has_role(['ceo','lead'])): ?>
-    <form method="POST" action="<?= e(url_for('tasks')) ?>" class="task-create-form">
+    <form method="POST" action="<?= e(url_for('tasks')) ?>" class="task-create-form" id="task_create_form">
         <input type="hidden" name="csrf_token" value="<?= e(csrf_token()) ?>">
         <input type="hidden" name="action" value="<?= $isEditingTask ? 'update_task' : 'create_task' ?>">
         <?php if ($isEditingTask): ?>
@@ -585,7 +585,7 @@
         <div class="form-group">
             <label for="lead_id">Lead</label>
             <select id="lead_id" name="lead_id" required>
-                <option value="">Select lead</option>
+                <option value="" <?= $formLeadId === 0 ? 'selected' : '' ?>>Select lead</option>
                 <?php foreach ($leads as $lead): ?>
                     <option value="<?= $lead['id'] ?>" <?= (string) $lead['id'] === (string) $formLeadId ? 'selected' : '' ?>><?= e($lead['name']) ?></option>
                 <?php endforeach; ?>
@@ -661,6 +661,9 @@
         <?php endif; ?>
         <div class="form-group create-actions">
             <button type="submit" class="btn-pill"><?= $isEditingTask ? 'Update task' : 'Create task' ?></button>
+            <?php if (!$isEditingTask): ?>
+                <button type="reset" class="button ghost">Reset</button>
+            <?php endif; ?>
         </div>
     </form>
     <?php endif; ?>
@@ -679,6 +682,13 @@
                 }
             }
             return hasAny && !hasDisallowed;
+        }
+        var form=document.getElementById('task_create_form');
+        if(form){
+            form.addEventListener('reset', function(){
+                var lead=document.getElementById('lead_id');
+                if(lead){ lead.value=''; }
+            });
         }
         function updateGst(){
             var container=document.getElementById('gst-months');

@@ -383,7 +383,15 @@ switch ($path) {
                         if ($dueDate === '' || !preg_match('/^\d{4}-\d{2}-\d{2}$/', $dueDate)) { throw new InvalidArgumentException('Enter a valid due date.'); }
                         $initialComment = trim($_POST['initial_comment'] ?? '');
 
-                        if ($title === '' || $clientIdRaw === '' || !$leadId) { throw new InvalidArgumentException('Title, client, and lead are mandatory.'); }
+                        if ($leadId <= 0) {
+                            $availableLeads = get_employees('lead');
+                            if (empty($availableLeads)) {
+                                throw new InvalidArgumentException('No lead users available. Create a Lead user first.');
+                            }
+                        }
+                        if ($title === '' || $clientIdRaw === '' || $leadId <= 0) {
+                            throw new InvalidArgumentException('Title, client, and lead are mandatory.');
+                        }
 
                         if (empty($services)) { throw new InvalidArgumentException('Select at least one service.'); }
                         if (empty($teamIds)) { throw new InvalidArgumentException('Select one or more team members.'); }
@@ -456,7 +464,13 @@ switch ($path) {
                         if ($taskId <= 0) {
                             throw new InvalidArgumentException('Unknown task.');
                         }
-                        if ($title === '' || $clientIdRaw === '' || !$leadId) {
+                        if ($leadId <= 0) {
+                            $availableLeads = get_employees('lead');
+                            if (empty($availableLeads)) {
+                                throw new InvalidArgumentException('No lead users available. Create a Lead user first.');
+                            }
+                        }
+                        if ($title === '' || $clientIdRaw === '' || $leadId <= 0) {
                             throw new InvalidArgumentException('Title, client, and lead are mandatory.');
                         }
                         if (empty($services)) {
