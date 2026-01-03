@@ -1,0 +1,10 @@
+{
+  "devtools": {
+    "handlers": [
+      {
+        "origin": "chrome-devtools://devtools",
+        "override": "http://localhost:8080"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+
+{
+    "intelephense.environment.phpVersion": "8.4.0",
+    "intelephense.stubs": [
+        "standard",
+        "pcre",
+        "spl",
+        "Core",
+        "PDO",
+        "date",
+        "filter",
+        "intl",
+        "json",
+        "mbstring",
+        "opcache",
+        "zip",
+        "SimpleXML",
+        "Reflection"
+    ],
+    "intelephense.environment.includePaths": []
+}

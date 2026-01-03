@@ -1,0 +1,28 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # If the app is in a subfolder, set RewriteBase accordingly (e.g., /myapp/)
+    RewriteBase /
+
+    # Block direct web access to sensitive directories
+    RewriteRule ^(app|bin|database|docs|storage)/ - [F,L]
+
+    # Pass through existing files/directories
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Route everything else to the front controller
+    RewriteRule . index.php [L,QSA]
+</IfModule>
+
+<IfModule mod_php.c>
+    php_flag display_errors Off
+    php_value memory_limit 256M
+</IfModule>

@@ -1,0 +1,261 @@
+[2025-12-04T14:06:00+00:00] CSV start /home/u265933834/domains/firebrick-swan-595229.hostingersite.com/public_html/storage/uploads/staff/0f9d8cb78eeac729.csv
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Nataraju S email=nataraju@srmr.co.in role_id=1 code=PT2 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=nataraju@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Vinutha S V email=vinutha@srmr.co.in role_id=1 code=PT3 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=vinutha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email vinutha@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Pradeep Maradi email=pradeep@srmr.co.in role_id=1 code=PT4 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=pradeep@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email pradeep@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Lavanya email=lavanya@srmr.co.in role_id=1 code=PT5 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=lavanya@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email lavanya@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Prasad MSV email=prasad@srmr.co.in role_id=2 code=L1 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=prasad@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email prasad@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Guruprasad S email=guruprasad.s@srmr.co.in role_id=2 code=L2 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=guruprasad.s@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email guruprasad.s@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Santhosh email=santhosh@srmr.co.in role_id=2 code=L3 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=santhosh@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email santhosh@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Nagaraju SJ email=nagarajusg@srmr.co.in role_id=2 code=L4 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=nagarajusg@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email nagarajusg@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Nagaraju M V email=nagaraj@srmr.co.in role_id=2 code=L5 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=nagaraj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email nagaraj@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Nithin email=nithin@srmr.co.in role_id=2 code=L6 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=nithin@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email nithin@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Manoj email=manoj@srmr.co.in role_id=2 code=L7 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=manoj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email manoj@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Sangeetha email=sangeetha@srmr.co.in role_id=2 code=L8 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=sangeetha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email sangeetha@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] Create attempt driver=mysql name=Shivamurthy email=shivamurthy@srmr.co.in role_id=2 code=L9 email_nullable=1
+[2025-12-04T14:06:03+00:00] DB error email=shivamurthy@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:06:03+00:00] Duplicate email shivamurthy@srmr.co.in [23000/1048]
+[2025-12-04T14:06:03+00:00] CSV summary ok=0 fail=13
+[2025-12-04T14:06:03+00:00] XLSX summary ok=0 fail=13
+[2025-12-04T14:06:03+00:00] XLSX failure reason: Email already exists: nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:09:10+00:00] CSV start /home/u265933834/domains/firebrick-swan-595229.hostingersite.com/public_html/storage/uploads/staff/135b5cee1bd60b46.csv
+[2025-12-04T14:09:12+00:00] Create attempt driver=mysql name=Nataraju S email=nataraju@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:09:12+00:00] DB error email=nataraju@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:12+00:00] Duplicate email nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:09:12+00:00] Create attempt driver=mysql name=Vinutha S V email=vinutha@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:09:12+00:00] DB error email=vinutha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:12+00:00] Duplicate email vinutha@srmr.co.in [23000/1048]
+[2025-12-04T14:09:12+00:00] Create attempt driver=mysql name=Pradeep Maradi email=pradeep@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:09:12+00:00] DB error email=pradeep@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:12+00:00] Duplicate email pradeep@srmr.co.in [23000/1048]
+[2025-12-04T14:09:12+00:00] Create attempt driver=mysql name=Lavanya email=lavanya@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:09:12+00:00] DB error email=lavanya@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:12+00:00] Duplicate email lavanya@srmr.co.in [23000/1048]
+[2025-12-04T14:09:12+00:00] Create attempt driver=mysql name=Prasad MSV email=prasad@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:09:12+00:00] DB error email=prasad@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:12+00:00] Duplicate email prasad@srmr.co.in [23000/1048]
+[2025-12-04T14:09:12+00:00] Create attempt driver=mysql name=Guruprasad S email=guruprasad.s@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=guruprasad.s@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email guruprasad.s@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Santhosh email=santhosh@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=santhosh@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email santhosh@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Nagaraju SJ email=nagarajusg@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=nagarajusg@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email nagarajusg@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Nagaraju M V email=nagaraj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=nagaraj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email nagaraj@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Nithin email=nithin@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=nithin@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email nithin@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Manoj email=manoj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=manoj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email manoj@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Sangeetha email=sangeetha@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=sangeetha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email sangeetha@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] Create attempt driver=mysql name=Shivamurthy email=shivamurthy@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:13+00:00] DB error email=shivamurthy@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:13+00:00] Duplicate email shivamurthy@srmr.co.in [23000/1048]
+[2025-12-04T14:09:13+00:00] CSV summary ok=0 fail=13
+[2025-12-04T14:09:13+00:00] XLSX summary ok=0 fail=13
+[2025-12-04T14:09:13+00:00] XLSX failure reason: Email already exists: nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:09:27+00:00] CSV start /home/u265933834/domains/firebrick-swan-595229.hostingersite.com/public_html/storage/uploads/staff/fe13a97300011f82.csv
+[2025-12-04T14:09:29+00:00] Create attempt driver=mysql name=Nataraju S email=nataraju@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:09:29+00:00] DB error email=nataraju@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:29+00:00] Duplicate email nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:09:29+00:00] Create attempt driver=mysql name=Vinutha S V email=vinutha@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:09:29+00:00] DB error email=vinutha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:29+00:00] Duplicate email vinutha@srmr.co.in [23000/1048]
+[2025-12-04T14:09:29+00:00] Create attempt driver=mysql name=Pradeep Maradi email=pradeep@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:09:29+00:00] DB error email=pradeep@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:29+00:00] Duplicate email pradeep@srmr.co.in [23000/1048]
+[2025-12-04T14:09:29+00:00] Create attempt driver=mysql name=Lavanya email=lavanya@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:09:29+00:00] DB error email=lavanya@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:29+00:00] Duplicate email lavanya@srmr.co.in [23000/1048]
+[2025-12-04T14:09:29+00:00] Create attempt driver=mysql name=Prasad MSV email=prasad@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=prasad@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email prasad@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Guruprasad S email=guruprasad.s@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=guruprasad.s@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email guruprasad.s@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Santhosh email=santhosh@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=santhosh@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email santhosh@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Nagaraju SJ email=nagarajusg@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=nagarajusg@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email nagarajusg@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Nagaraju M V email=nagaraj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=nagaraj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email nagaraj@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Nithin email=nithin@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=nithin@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email nithin@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Manoj email=manoj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=manoj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email manoj@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Sangeetha email=sangeetha@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=sangeetha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email sangeetha@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] Create attempt driver=mysql name=Shivamurthy email=shivamurthy@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:09:30+00:00] DB error email=shivamurthy@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:09:30+00:00] Duplicate email shivamurthy@srmr.co.in [23000/1048]
+[2025-12-04T14:09:30+00:00] CSV summary ok=0 fail=13
+[2025-12-04T14:09:30+00:00] XLSX summary ok=0 fail=13
+[2025-12-04T14:09:30+00:00] XLSX failure reason: Email already exists: nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:12:11+00:00] CSV start /home/u265933834/domains/firebrick-swan-595229.hostingersite.com/public_html/storage/uploads/staff/ff8cc6df7a68f222.csv
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Nataraju S email=nataraju@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=nataraju@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Vinutha S V email=vinutha@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=vinutha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email vinutha@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Pradeep Maradi email=pradeep@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=pradeep@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email pradeep@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Lavanya email=lavanya@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=lavanya@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email lavanya@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Prasad MSV email=prasad@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=prasad@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email prasad@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Guruprasad S email=guruprasad.s@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=guruprasad.s@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email guruprasad.s@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Santhosh email=santhosh@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=santhosh@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email santhosh@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Nagaraju SJ email=nagarajusg@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:13+00:00] DB error email=nagarajusg@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:13+00:00] Duplicate email nagarajusg@srmr.co.in [23000/1048]
+[2025-12-04T14:12:13+00:00] Create attempt driver=mysql name=Nagaraju M V email=nagaraj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:14+00:00] DB error email=nagaraj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:14+00:00] Duplicate email nagaraj@srmr.co.in [23000/1048]
+[2025-12-04T14:12:14+00:00] Create attempt driver=mysql name=Nithin email=nithin@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:14+00:00] DB error email=nithin@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:14+00:00] Duplicate email nithin@srmr.co.in [23000/1048]
+[2025-12-04T14:12:14+00:00] Create attempt driver=mysql name=Manoj email=manoj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:14+00:00] DB error email=manoj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:14+00:00] Duplicate email manoj@srmr.co.in [23000/1048]
+[2025-12-04T14:12:14+00:00] Create attempt driver=mysql name=Sangeetha email=sangeetha@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:14+00:00] DB error email=sangeetha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:14+00:00] Duplicate email sangeetha@srmr.co.in [23000/1048]
+[2025-12-04T14:12:14+00:00] Create attempt driver=mysql name=Shivamurthy email=shivamurthy@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:12:14+00:00] DB error email=shivamurthy@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:12:14+00:00] Duplicate email shivamurthy@srmr.co.in [23000/1048]
+[2025-12-04T14:12:14+00:00] CSV summary ok=0 fail=13
+[2025-12-04T14:12:14+00:00] XLSX summary ok=0 fail=13
+[2025-12-04T14:12:14+00:00] XLSX failure reason: Email already exists: nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:19:45+00:00] CSV start /home/u265933834/domains/firebrick-swan-595229.hostingersite.com/public_html/storage/uploads/staff/c5d5e04f11cad5b9.csv
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Nataraju S email=nataraju@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=nataraju@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed nataraju@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Vinutha S V email=vinutha@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=vinutha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed vinutha@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Pradeep Maradi email=pradeep@srmr.co.in role_id=1 code=1 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=pradeep@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed pradeep@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Lavanya email=lavanya@srmr.co.in role_id=1 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=lavanya@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed lavanya@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Prasad MSV email=prasad@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=prasad@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed prasad@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Guruprasad S email=guruprasad.s@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=guruprasad.s@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed guruprasad.s@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Santhosh email=santhosh@srmr.co.in role_id=2 code=1 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=santhosh@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed santhosh@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Nagaraju SJ email=nagarajusg@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=nagarajusg@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed nagarajusg@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Nagaraju M V email=nagaraj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=nagaraj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed nagaraj@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Nithin email=nithin@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=nithin@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed nithin@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Manoj email=manoj@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=manoj@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed manoj@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Sangeetha email=sangeetha@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=sangeetha@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed sangeetha@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] Create attempt driver=mysql name=Shivamurthy email=shivamurthy@srmr.co.in role_id=2 code=2 email_nullable=1
+[2025-12-04T14:19:48+00:00] DB error email=shivamurthy@srmr.co.in sqlstate=23000 code=1048
+[2025-12-04T14:19:48+00:00] Create failed shivamurthy@srmr.co.in [23000/1048]
+[2025-12-04T14:19:48+00:00] CSV summary ok=0 fail=13
+[2025-12-04T14:19:48+00:00] XLSX summary ok=0 fail=13
+[2025-12-04T14:19:48+00:00] XLSX failure reason: DB error  [23000/1048] for nataraju@srmr.co.in
+[2025-12-04T14:29:43+00:00] CSV start /home/u265933834/domains/firebrick-swan-595229.hostingersite.com/public_html/storage/uploads/staff/c63b47d64fbad147.csv
+[2025-12-04T14:29:45+00:00] Create attempt driver=mysql name=Nataraju S email=nataraju@srmr.co.in role_id=1 code=SRMR0001 emp_id=SRMR0001 email_nullable=1
+[2025-12-04T14:29:45+00:00] Create success id=0 email=nataraju@srmr.co.in
+[2025-12-04T14:29:45+00:00] Created nataraju@srmr.co.in role=ceo code=SRMR0000
+[2025-12-04T14:29:45+00:00] Create attempt driver=mysql name=Vinutha S V email=vinutha@srmr.co.in role_id=1 code=SRMR0002 emp_id=SRMR0002 email_nullable=1
+[2025-12-04T14:29:45+00:00] Create success id=0 email=vinutha@srmr.co.in
+[2025-12-04T14:29:45+00:00] Created vinutha@srmr.co.in role=ceo code=SRMR0000
+[2025-12-04T14:29:45+00:00] Create attempt driver=mysql name=Pradeep Maradi email=pradeep@srmr.co.in role_id=1 code=SRMR0003 emp_id=SRMR0003 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=pradeep@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created pradeep@srmr.co.in role=ceo code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Lavanya email=lavanya@srmr.co.in role_id=1 code=SRMR0004 emp_id=SRMR0004 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=lavanya@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created lavanya@srmr.co.in role=ceo code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Prasad MSV email=prasad@srmr.co.in role_id=2 code=SRMR0005 emp_id=SRMR0005 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=prasad@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created prasad@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Guruprasad S email=guruprasad.s@srmr.co.in role_id=2 code=SRMR0006 emp_id=SRMR0006 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=guruprasad.s@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created guruprasad.s@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Santhosh email=santhosh@srmr.co.in role_id=2 code=SRMR0007 emp_id=SRMR0007 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=santhosh@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created santhosh@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Nagaraju SJ email=nagarajusg@srmr.co.in role_id=2 code=SRMR0008 emp_id=SRMR0008 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=nagarajusg@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created nagarajusg@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Nagaraju M V email=nagaraj@srmr.co.in role_id=2 code=SRMR0009 emp_id=SRMR0009 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=nagaraj@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created nagaraj@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Nithin email=nithin@srmr.co.in role_id=2 code=SRMR0010 emp_id=SRMR0010 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=nithin@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created nithin@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Manoj email=manoj@srmr.co.in role_id=2 code=SRMR0011 emp_id=SRMR0011 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=manoj@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created manoj@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Sangeetha email=sangeetha@srmr.co.in role_id=2 code=SRMR0012 emp_id=SRMR0012 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=sangeetha@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created sangeetha@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] Create attempt driver=mysql name=Shivamurthy email=shivamurthy@srmr.co.in role_id=2 code=SRMR0013 emp_id=SRMR0013 email_nullable=1
+[2025-12-04T14:29:46+00:00] Create success id=0 email=shivamurthy@srmr.co.in
+[2025-12-04T14:29:46+00:00] Created shivamurthy@srmr.co.in role=Lead code=SRMR0000
+[2025-12-04T14:29:46+00:00] CSV summary ok=13 fail=0
+[2025-12-04T14:29:46+00:00] XLSX summary ok=13 fail=0
+[2025-12-04T14:31:18+00:00] Create attempt driver=mysql name=suresh email=suresh@gmail.co.in role_id=3 code=9876543211 emp_id=9876543211 email_nullable=1
+[2025-12-04T14:31:18+00:00] Create success id=0 email=suresh@gmail.co.in
+[2025-12-04T14:34:58+00:00] Create attempt driver=mysql name=suresh email=suresh1@gmail.co.in role_id=3 code=Admin@example.com emp_id=Admin@example.com email_nullable=1
+[2025-12-04T14:34:58+00:00] Create success id=0 email=suresh1@gmail.co.in

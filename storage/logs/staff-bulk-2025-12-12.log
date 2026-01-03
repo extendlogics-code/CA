@@ -1,0 +1,6 @@
+[2025-12-12T03:46:02+00:00] Create attempt driver=mysql name=Swarnabala K email=bala@example.co.in role_id=2 code=12 emp_id=12 email_nullable=1
+[2025-12-12T03:46:02+00:00] Create success id=0 email=bala@example.co.in
+[2025-12-12T04:41:58+00:00] Create attempt driver=mysql name=rubina email=rubi@exmple.co.in role_id=4 code=21 emp_id=21 email_nullable=1
+[2025-12-12T04:41:59+00:00] Create success id=0 email=rubi@exmple.co.in
+[2025-12-12T04:54:57+00:00] Create attempt driver=mysql name=rana email=rana@example.co.in role_id=3 code=11 emp_id=11 email_nullable=1
+[2025-12-12T04:54:57+00:00] Create success id=0 email=rana@example.co.in

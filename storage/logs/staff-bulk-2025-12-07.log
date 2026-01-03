@@ -1,0 +1,26 @@
+[2025-12-07T08:59:55+00:00] Create attempt driver=mysql name=Swarnabala K email=keish@example.co.in role_id=3 code=SRMR0014 emp_id=SRMR0014 email_nullable=1
+[2025-12-07T08:59:55+00:00] DB error email=keish@example.co.in sqlstate=23000 code=1062
+[2025-12-07T09:00:49+00:00] Create attempt driver=mysql name=Swarnabala K email=swarna@example.co.in role_id=3 code=SRMR0014 emp_id=SRMR0014 email_nullable=1
+[2025-12-07T09:00:49+00:00] DB error email=swarna@example.co.in sqlstate=23000 code=1062
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] Invalid row 
+[2025-12-07T09:02:01+00:00] XLSX summary ok=0 fail=16
+[2025-12-07T09:02:01+00:00] XLSX failure reason: Invalid row for 
+[2025-12-07T09:28:06+00:00] Create attempt driver=mysql name=Swarnabala K email=name@example.co.in role_id=1 code=SRMR0014 emp_id=SRMR0014 email_nullable=1
+[2025-12-07T09:28:06+00:00] DB error email=name@example.co.in sqlstate=23000 code=1062
+[2025-12-07T09:30:56+00:00] Create attempt driver=mysql name=rubinametalsingh email=rubina@exampl.co.in role_id=4 code=SRMR0014 emp_id=SRMR0014 email_nullable=1
+[2025-12-07T09:30:56+00:00] DB error email=rubina@exampl.co.in sqlstate=23000 code=1062

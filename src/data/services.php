@@ -1,0 +1,36 @@
+<?php
+return [
+    [
+        'id' => 101,
+        'client' => 'Acme Manufacturing',
+        'employee' => 'Ravi Menon',
+        'employee_id' => 2,
+        'status' => 'In Progress',
+        'work_stream' => 'ERP Migration',
+        'due_date' => date('Y-m-d', strtotime('+5 days')),
+        'progress' => 68,
+        'priority' => 'High',
+    ],
+    [
+        'id' => 102,
+        'client' => 'Northwind Traders',
+        'employee' => 'Anish Rao',
+        'employee_id' => 4,
+        'status' => 'Discovery',
+        'work_stream' => 'Payroll Modernization',
+        'due_date' => date('Y-m-d', strtotime('+14 days')),
+        'progress' => 35,
+        'priority' => 'Medium',
+    ],
+    [
+        'id' => 103,
+        'client' => 'Blue River Logistics',
+        'employee' => 'Ravi Menon',
+        'employee_id' => 2,
+        'status' => 'At Risk',
+        'work_stream' => 'Compliance Audit',
+        'due_date' => date('Y-m-d', strtotime('+2 days')),
+        'progress' => 42,
+        'priority' => 'Critical',
+    ],
+];

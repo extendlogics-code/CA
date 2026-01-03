@@ -1,0 +1,6 @@
+# Query: employee id
+
+1 result - 1 file
+
+src/views/access.php:
+  161:                 <div><small>Employee Number: <?= e($selectedUser['employee_code'] ?? '') ?></small></div>

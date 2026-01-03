@@ -1,0 +1,23 @@
+<?php
+return [
+    'Statutory Audit',
+    'Tax Audit',
+    'GST filing',
+    'Consultation',
+    'Accounting',
+    'Payroll Processing',
+    'Appeals - General',
+    'Appeals - IT Department notice',
+    'Litigations - General',
+    'Litigations - Appellate Support',
+    'Secretarial - ROC Filings',
+    'Secretarial - Board Support',
+    'Others - specify',
+    'Risk Advisory',
+    'Internal Audit',
+    'IFC Review',
+    'Digital Controls',
+    'Cyber Risk Assessment',
+    'Compliance Testing',
+    'SOP Documentation',
+];
